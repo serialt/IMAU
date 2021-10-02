@@ -20,8 +20,9 @@ IMAU组织成员与结构：
 我们的service有：
 
 * Gins
+* Charts
+* Msg
 * Gops
-* Exmail
 * Abaice
 
 
